@@ -1,0 +1,8 @@
+Array Length = 100, Worst Case Time = 0.0000024000s, Average Case Time = 0.0000038000s
+Array Length = 150, Worst Case Time = 0.0000029000s, Average Case Time = 0.0000062000s
+Array Length = 200, Worst Case Time = 0.0000029000s, Average Case Time = 0.0000056000s
+Array Length = 250, Worst Case Time = 0.0000029000s, Average Case Time = 0.0000046000s
+Array Length = 300, Worst Case Time = 0.0000034000s, Average Case Time = 0.0000051000s
+Array Length = 350, Worst Case Time = 0.0000047000s, Average Case Time = 0.0000079000s
+Array Length = 400, Worst Case Time = 0.0000048000s, Average Case Time = 0.0000076000s
+Array Length = 500, Worst Case Time = 0.0000056000s, Average Case Time = 0.0000075000s
